@@ -2,8 +2,6 @@
 
 <img src="https://absoluteweb.org/wp-content/uploads/2024/07/Absolute-Web_Logo.png" width="220" alt="Absolute Web"/>
 
-# Absolute Web
-
 ### AI Development Company | SaaS Development Company | Enterprise Software Engineering | Product Engineering Partner
 
 Building AI-powered applications, SaaS platforms, enterprise software, mobile applications, and cloud-native digital products for startups, fast-growing businesses, and enterprises worldwide.
